@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<mime-type xmlns="http://www.freedesktop.org/standards/shared-mime-info" type="image/x-r8">
-  <!--Created automatically by update-mime-database. DO NOT EDIT!-->
-  <comment xml:lang="en">r8 heightmap</comment>
-  <glob pattern="*.r8"/>
-</mime-type>

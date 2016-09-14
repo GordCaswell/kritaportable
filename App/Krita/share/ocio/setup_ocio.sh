@@ -1,6 +1,6 @@
 #!/bin/sh
-OCIO_ROOT="/dev/desktop32/i"
-OCIO_EXECROOT="/dev/desktop32/i"
+OCIO_ROOT="/data2/cross/mxe/usr/i686-w64-mingw32.shared"
+OCIO_EXECROOT="/data2/cross/mxe/usr/i686-w64-mingw32.shared"
 
 # For OS X
 export DYLD_LIBRARY_PATH="${OCIO_EXECROOT}/lib:${DYLD_LIBRARY_PATH}"

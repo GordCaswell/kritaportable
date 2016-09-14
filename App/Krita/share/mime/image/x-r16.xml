@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<mime-type xmlns="http://www.freedesktop.org/standards/shared-mime-info" type="image/x-r16">
-  <!--Created automatically by update-mime-database. DO NOT EDIT!-->
-  <comment xml:lang="en">r16 heightmap</comment>
-  <glob pattern="*.r16"/>
-</mime-type>
